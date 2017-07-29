@@ -1,0 +1,691 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a/examples
+vEightBitCounter
+!s110 1494385542
+!i10b 1
+!s100 GNbPThKOWF0UioF99gzZ<1
+IU8lo9deWX_5R3Qg]j^a]m3
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dC:/Modeltech_pe_edu_10.4a/examples/Final Project
+w1494385536
+Z2 8C:/Modeltech_pe_edu_10.4a/examples/Final Project/EightBitCouter.v
+Z3 FC:/Modeltech_pe_edu_10.4a/examples/Final Project/EightBitCouter.v
+L0 1
+Z4 OP;L;10.4a;61
+r1
+!s85 0
+31
+!s108 1494385542.000000
+Z5 !s107 C:/Modeltech_pe_edu_10.4a/examples/Final Project/EightBitCouter.v|
+Z6 !s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/Final Project/EightBitCouter.v|
+!s101 -O0
+!i113 1
+Z7 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+n@eight@bit@counter
+vEightBitCouter
+Z8 !s110 1494528851
+!i10b 1
+!s100 0?BbZdGmYJnLXd_zPl6kO1
+IlC7XXUg4^@;T]ALJ<hd0=3
+R0
+R1
+w1494520475
+R2
+R3
+L0 1
+R4
+r1
+!s85 0
+31
+Z9 !s108 1494528851.000000
+R5
+R6
+!s101 -O0
+!i113 1
+R7
+n@eight@bit@couter
+vEightBitRxCounter
+R8
+!i10b 1
+!s100 bTB^05o>_^HV0^PNi1HlV3
+I^DM?oGPIB3PzH1cPgm;S>3
+R0
+R1
+w1494508983
+8C:/Modeltech_pe_edu_10.4a/examples/Final Project/EightBitCounter_Rx.v
+FC:/Modeltech_pe_edu_10.4a/examples/Final Project/EightBitCounter_Rx.v
+L0 2
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Modeltech_pe_edu_10.4a/examples/Final Project/EightBitCounter_Rx.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/Final Project/EightBitCounter_Rx.v|
+!s101 -O0
+!i113 1
+R7
+n@eight@bit@rx@counter
+vEightBitRxCounter_tb
+Z10 !s110 1494528852
+!i10b 1
+!s100 8Zj`Kb3DzP2dM@iOK`d_z0
+Iccn`dVQ3mVMcg7nFW[]:T3
+R0
+R1
+w1494482669
+8C:/Modeltech_pe_edu_10.4a/examples/Final Project/EightBitCounter_RX_tb.v
+FC:/Modeltech_pe_edu_10.4a/examples/Final Project/EightBitCounter_RX_tb.v
+L0 1
+R4
+r1
+!s85 0
+31
+Z11 !s108 1494528852.000000
+!s107 C:/Modeltech_pe_edu_10.4a/examples/Final Project/EightBitCounter_RX_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/Final Project/EightBitCounter_RX_tb.v|
+!s101 -O0
+!i113 1
+R7
+n@eight@bit@rx@counter_tb
+vEightEightBitCount_tb
+R8
+!i10b 1
+!s100 O2@44mLS6YKQ:Z3@@]hQo1
+I=Ta1;Q?BGC@SRlWjX?@OS3
+R0
+R1
+w1494385296
+8C:/Modeltech_pe_edu_10.4a/examples/Final Project/EightBitCount_tb.v
+FC:/Modeltech_pe_edu_10.4a/examples/Final Project/EightBitCount_tb.v
+L0 1
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Modeltech_pe_edu_10.4a/examples/Final Project/EightBitCount_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/Final Project/EightBitCount_tb.v|
+!s101 -O0
+!i113 1
+R7
+n@eight@eight@bit@count_tb
+vmainsim_tb
+!s110 1494468420
+!i10b 1
+!s100 cglWhd8_d8P<S_<_[J6[Z2
+I_hFYzZdWj6;DNT>mJbaHh1
+R0
+R1
+w1494468408
+Z12 8C:/Modeltech_pe_edu_10.4a/examples/Final Project/RxController_tb.v
+Z13 FC:/Modeltech_pe_edu_10.4a/examples/Final Project/RxController_tb.v
+L0 6
+R4
+r1
+!s85 0
+31
+!s108 1494468420.000000
+Z14 !s107 C:/Modeltech_pe_edu_10.4a/examples/Final Project/RxController_tb.v|
+Z15 !s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/Final Project/RxController_tb.v|
+!s101 -O0
+!i113 1
+R7
+vMockReciver
+R8
+!i10b 1
+!s100 4]S5Ng:8EK6dDk9VLE;oM3
+Ij7@;U1NRHIgZDLM`U6A^Y0
+R0
+R1
+w1494311628
+8C:/Modeltech_pe_edu_10.4a/examples/Final Project/MockReceiver.v
+FC:/Modeltech_pe_edu_10.4a/examples/Final Project/MockReceiver.v
+L0 1
+R4
+r1
+!s85 0
+31
+Z16 !s108 1494528850.000000
+!s107 C:/Modeltech_pe_edu_10.4a/examples/Final Project/MockReceiver.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/Final Project/MockReceiver.v|
+!s101 -O0
+!i113 1
+R7
+n@mock@reciver
+vMuxSC
+Z17 !s110 1494528849
+!i10b 1
+!s100 fM;?4UoIK:f0SGcke@^QO3
+I^TmB0A538zGgdjz]8LZRa2
+R0
+R1
+w1494443280
+8C:/Modeltech_pe_edu_10.4a/examples/Final Project/MuxSC.v
+FC:/Modeltech_pe_edu_10.4a/examples/Final Project/MuxSC.v
+L0 1
+R4
+r1
+!s85 0
+31
+Z18 !s108 1494528849.000000
+!s107 C:/Modeltech_pe_edu_10.4a/examples/Final Project/MuxSC.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/Final Project/MuxSC.v|
+!s101 -O0
+!i113 1
+R7
+n@mux@s@c
+vMuxSC_tb
+R17
+!i10b 1
+!s100 f8lD8gKa[MlCcC_nBWTl@1
+IdmcVEBl7TX@lJDGQdYAQo0
+R0
+R1
+w1494140059
+8C:/Modeltech_pe_edu_10.4a/examples/Final Project/MuxSC_tb.v
+FC:/Modeltech_pe_edu_10.4a/examples/Final Project/MuxSC_tb.v
+L0 1
+R4
+r1
+!s85 0
+31
+R18
+!s107 C:/Modeltech_pe_edu_10.4a/examples/Final Project/MuxSC_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/Final Project/MuxSC_tb.v|
+!s101 -O0
+!i113 1
+R7
+n@mux@s@c_tb
+vMuxSD
+R17
+!i10b 1
+!s100 ^dV`l>E1F7@8f34[9^1R01
+IYA2khc8a5>d7]h8VK`AeU2
+R0
+R1
+w1494125214
+8C:/Modeltech_pe_edu_10.4a/examples/Final Project/MuxSD.v
+FC:/Modeltech_pe_edu_10.4a/examples/Final Project/MuxSD.v
+L0 1
+R4
+r1
+!s85 0
+31
+R18
+!s107 C:/Modeltech_pe_edu_10.4a/examples/Final Project/MuxSD.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/Final Project/MuxSD.v|
+!s101 -O0
+!i113 1
+R7
+n@mux@s@d
+vMuxSD_tb
+R17
+!i10b 1
+!s100 TbgmSINTQ_3mdZZef<I8U0
+IdYncmHiHYoBV?Lm`Q`?zi3
+R0
+R1
+w1494125429
+8C:/Modeltech_pe_edu_10.4a/examples/Final Project/MuxSD_tb.v
+FC:/Modeltech_pe_edu_10.4a/examples/Final Project/MuxSD_tb.v
+L0 1
+R4
+r1
+!s85 0
+31
+R18
+!s107 C:/Modeltech_pe_edu_10.4a/examples/Final Project/MuxSD_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/Final Project/MuxSD_tb.v|
+!s101 -O0
+!i113 1
+R7
+n@mux@s@d_tb
+vReceiverBuffer
+!s110 1494570823
+!i10b 1
+!s100 <^mfj4O@Q9n6XXakWj@?32
+IZ2Y4Yc:b?]_ic=nRBOY;^1
+R0
+R1
+w1494570779
+8C:/Modeltech_pe_edu_10.4a/examples/Final Project/ReceiverBuffer.v
+FC:/Modeltech_pe_edu_10.4a/examples/Final Project/ReceiverBuffer.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1494570823.000000
+!s107 C:/Modeltech_pe_edu_10.4a/examples/Final Project/ReceiverBuffer.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/Final Project/ReceiverBuffer.v|
+!s101 -O0
+!i113 1
+R7
+n@receiver@buffer
+vReceiverBuffer_tb
+R10
+!i10b 1
+!s100 zaMSj;CRASX=YC`1Lfhdh1
+IW7a^i]V:Zh?gmnG=BgC^a3
+R0
+R1
+w1494496567
+8C:/Modeltech_pe_edu_10.4a/examples/Final Project/RecieverBuffer_tb.v
+FC:/Modeltech_pe_edu_10.4a/examples/Final Project/RecieverBuffer_tb.v
+L0 1
+R4
+r1
+!s85 0
+31
+R11
+!s107 C:/Modeltech_pe_edu_10.4a/examples/Final Project/RecieverBuffer_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/Final Project/RecieverBuffer_tb.v|
+!s101 -O0
+!i113 1
+R7
+n@receiver@buffer_tb
+vRxController
+!s110 1494626448
+!i10b 1
+!s100 <]oT7>Zlm4mPOK2m:0]<c1
+Ia=h92d9Th>4Q:^_kiLSLR0
+R0
+R1
+w1494626380
+8C:/Modeltech_pe_edu_10.4a/examples/Final Project/RxController.v
+FC:/Modeltech_pe_edu_10.4a/examples/Final Project/RxController.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1494626448.000000
+!s107 C:/Modeltech_pe_edu_10.4a/examples/Final Project/RxController.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/Final Project/RxController.v|
+!s101 -O0
+!i113 1
+R7
+n@rx@controller
+vRxController_tb
+R8
+!i10b 1
+!s100 fhG>=i`OkT_QQ^jFFH>YE3
+I@L:Jzb:6U@iEdb_TH_O4k1
+R0
+R1
+w1494468666
+R12
+R13
+L0 6
+R4
+r1
+!s85 0
+31
+R9
+R14
+R15
+!s101 -O0
+!i113 1
+R7
+n@rx@controller_tb
+vRxCounter
+!s110 1494613720
+!i10b 1
+!s100 @jC9SL>lWeZ:_Agm6c35n2
+IA5:6S:lbF]3laDNee6mmC3
+R0
+R1
+w1494613695
+8C:/Modeltech_pe_edu_10.4a/examples/Final Project/RxCounter.v
+FC:/Modeltech_pe_edu_10.4a/examples/Final Project/RxCounter.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1494613720.000000
+!s107 C:/Modeltech_pe_edu_10.4a/examples/Final Project/RxCounter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/Final Project/RxCounter.v|
+!s101 -O0
+!i113 1
+R7
+n@rx@counter
+vRxMux
+R8
+!i10b 1
+!s100 cf@JbbJRG<MG45m:l5koY2
+I0>lTIi4UYA^g5G6=<JX]T1
+R0
+R1
+w1494526773
+8C:/Modeltech_pe_edu_10.4a/examples/Final Project/RxMux.v
+FC:/Modeltech_pe_edu_10.4a/examples/Final Project/RxMux.v
+L0 1
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Modeltech_pe_edu_10.4a/examples/Final Project/RxMux.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/Final Project/RxMux.v|
+!s101 -O0
+!i113 1
+R7
+n@rx@mux
+vShiftBuf0Reg
+Z19 !s110 1494528848
+!i10b 1
+!s100 ]jneG2EaG<3g?z[S`[S9i0
+I2XUJGXbRHcl]WzmMXZI^?1
+R0
+R1
+w1494347163
+8C:/Modeltech_pe_edu_10.4a/examples/Final Project/ShiftBuf0Reg.v
+FC:/Modeltech_pe_edu_10.4a/examples/Final Project/ShiftBuf0Reg.v
+L0 1
+R4
+r1
+!s85 0
+31
+Z20 !s108 1494528848.000000
+!s107 C:/Modeltech_pe_edu_10.4a/examples/Final Project/ShiftBuf0Reg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/Final Project/ShiftBuf0Reg.v|
+!s101 -O0
+!i113 1
+R7
+n@shift@buf0@reg
+vShiftBuf0Reg_tb
+R19
+!i10b 1
+!s100 ?3ONYn=E2W`<CI8zJD`Q>1
+IY40GinMJ2BPonX1kbPCER1
+R0
+R1
+w1494101355
+8C:/Modeltech_pe_edu_10.4a/examples/Final Project/ShiftBuf0Reg_tb.v
+FC:/Modeltech_pe_edu_10.4a/examples/Final Project/ShiftBuf0Reg_tb.v
+L0 1
+R4
+r1
+!s85 0
+31
+R20
+!s107 C:/Modeltech_pe_edu_10.4a/examples/Final Project/ShiftBuf0Reg_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/Final Project/ShiftBuf0Reg_tb.v|
+!s101 -O0
+!i113 1
+R7
+n@shift@buf0@reg_tb
+vShiftBuf1Reg
+R19
+!i10b 1
+!s100 YD[UMzYzgLbMUZZ4D]6zN2
+IW_efFYOF0F6@1RiiW83nG1
+R0
+R1
+w1494101607
+8C:/Modeltech_pe_edu_10.4a/examples/Final Project/ShiftBuf1Reg.v
+FC:/Modeltech_pe_edu_10.4a/examples/Final Project/ShiftBuf1Reg.v
+L0 1
+R4
+r1
+!s85 0
+31
+R20
+!s107 C:/Modeltech_pe_edu_10.4a/examples/Final Project/ShiftBuf1Reg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/Final Project/ShiftBuf1Reg.v|
+!s101 -O0
+!i113 1
+R7
+n@shift@buf1@reg
+vShiftBuf1Reg_tb
+R19
+!i10b 1
+!s100 45MP@gz9d<=MhDn5DDE_51
+I_Bn^IiMPKbY24XBEKLGZm2
+R0
+R1
+w1494113780
+8C:/Modeltech_pe_edu_10.4a/examples/Final Project/ShiftBuf1Reg_tb.v
+FC:/Modeltech_pe_edu_10.4a/examples/Final Project/ShiftBuf1Reg_tb.v
+L0 1
+R4
+r1
+!s85 0
+31
+R20
+!s107 C:/Modeltech_pe_edu_10.4a/examples/Final Project/ShiftBuf1Reg_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/Final Project/ShiftBuf1Reg_tb.v|
+!s101 -O0
+!i113 1
+R7
+n@shift@buf1@reg_tb
+vShiftingLogic
+R17
+!i10b 1
+!s100 BTleM187iNd0IY_2OLo3;3
+I@3SEES36W4h<F3^MomTLZ1
+R0
+R1
+w1494126292
+8C:/Modeltech_pe_edu_10.4a/examples/Final Project/ShiftingLogic.v
+FC:/Modeltech_pe_edu_10.4a/examples/Final Project/ShiftingLogic.v
+L0 1
+R4
+r1
+!s85 0
+31
+R18
+!s107 C:/Modeltech_pe_edu_10.4a/examples/Final Project/ShiftingLogic.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/Final Project/ShiftingLogic.v|
+!s101 -O0
+!i113 1
+R7
+n@shifting@logic
+vShiftingLogic_tb
+R17
+!i10b 1
+!s100 [OM8N=dNA9nJBnh4IShml1
+I`OzeeUMbW2J2Mza2[2DzO0
+R0
+R1
+w1494131354
+8C:/Modeltech_pe_edu_10.4a/examples/Final Project/ShiftingLogic_tb.v
+FC:/Modeltech_pe_edu_10.4a/examples/Final Project/ShiftingLogic_tb.v
+L0 1
+R4
+r1
+!s85 0
+31
+R18
+!s107 C:/Modeltech_pe_edu_10.4a/examples/Final Project/ShiftingLogic_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/Final Project/ShiftingLogic_tb.v|
+!s101 -O0
+!i113 1
+R7
+n@shifting@logic_tb
+vTxBitCounter
+Z21 !s110 1494528850
+!i10b 1
+!s100 G1MTZ16b5Lm=iegj<U3NV3
+I2J<iHg>3b7QXdOHnkjh?J2
+R0
+R1
+w1494383308
+8C:/Modeltech_pe_edu_10.4a/examples/Final Project/TxBitCounter.v
+FC:/Modeltech_pe_edu_10.4a/examples/Final Project/TxBitCounter.v
+L0 1
+R4
+r1
+!s85 0
+31
+R16
+!s107 C:/Modeltech_pe_edu_10.4a/examples/Final Project/TxBitCounter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/Final Project/TxBitCounter.v|
+!s101 -O0
+!i113 1
+R7
+n@tx@bit@counter
+vTxBitCounter_tb
+R21
+!i10b 1
+!s100 0fKIcH1R;Y8_K=I3YZ:eJ1
+Igg;om7U4VH`VB3m9DHXZL2
+R0
+R1
+w1494215413
+8C:/Modeltech_pe_edu_10.4a/examples/Final Project/TxBitCounter_tb.v
+FC:/Modeltech_pe_edu_10.4a/examples/Final Project/TxBitCounter_tb.v
+L0 1
+R4
+r1
+!s85 0
+31
+R16
+!s107 C:/Modeltech_pe_edu_10.4a/examples/Final Project/TxBitCounter_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/Final Project/TxBitCounter_tb.v|
+!s101 -O0
+!i113 1
+R7
+n@tx@bit@counter_tb
+vTxBurstCounter
+R21
+!i10b 1
+!s100 aZiX?aE9iAl7z2zLI]5>e2
+I=A61PcbLHbe30lO]3D@=D1
+R0
+R1
+w1494214580
+8C:/Modeltech_pe_edu_10.4a/examples/Final Project/TxBurstCounter.v
+FC:/Modeltech_pe_edu_10.4a/examples/Final Project/TxBurstCounter.v
+L0 1
+R4
+r1
+!s85 0
+31
+R16
+!s107 C:/Modeltech_pe_edu_10.4a/examples/Final Project/TxBurstCounter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/Final Project/TxBurstCounter.v|
+!s101 -O0
+!i113 1
+R7
+n@tx@burst@counter
+vTxBurstCounter_tb
+R21
+!i10b 1
+!s100 P>P>nXHFZl[CzjOfz;9]^3
+IE_?H>QYjnNoCO[>^aA73l2
+R0
+R1
+w1494215228
+8C:/Modeltech_pe_edu_10.4a/examples/Final Project/TxBurstCounter_tb.v
+FC:/Modeltech_pe_edu_10.4a/examples/Final Project/TxBurstCounter_tb.v
+L0 1
+R4
+r1
+!s85 0
+31
+R16
+!s107 C:/Modeltech_pe_edu_10.4a/examples/Final Project/TxBurstCounter_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/Final Project/TxBurstCounter_tb.v|
+!s101 -O0
+!i113 1
+R7
+n@tx@burst@counter_tb
+vTxControl
+R21
+!i10b 1
+!s100 XIFg7CZ0>i2dTPUi[ZY051
+IVPLn8ZfP_bPRO;@=M9D2:3
+R0
+R1
+w1494390390
+8C:/Modeltech_pe_edu_10.4a/examples/Final Project/TxControl.v
+FC:/Modeltech_pe_edu_10.4a/examples/Final Project/TxControl.v
+L0 1
+R4
+r1
+!s85 0
+31
+R16
+!s107 C:/Modeltech_pe_edu_10.4a/examples/Final Project/TxControl.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/Final Project/TxControl.v|
+!s101 -O0
+!i113 1
+R7
+n@tx@control
+vTxControl_tb
+R21
+!i10b 1
+!s100 D`@Bg;YA]IDLIl;IIT[c=0
+I^YU8PO0XEO@Z>kncdXh_M2
+R0
+R1
+w1494216843
+8C:/Modeltech_pe_edu_10.4a/examples/Final Project/TxControl_tb.v
+FC:/Modeltech_pe_edu_10.4a/examples/Final Project/TxControl_tb.v
+L0 1
+R4
+r1
+!s85 0
+31
+R16
+!s107 C:/Modeltech_pe_edu_10.4a/examples/Final Project/TxControl_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/Final Project/TxControl_tb.v|
+!s101 -O0
+!i113 1
+R7
+n@tx@control_tb
+vTxController
+!s110 1494625099
+!i10b 1
+!s100 TicQSO8jE3RJ[YcoNK];b0
+IU1JZEH_GZWP1PNm>L?AW52
+R0
+R1
+w1494625088
+8C:/Modeltech_pe_edu_10.4a/examples/Final Project/TxController.v
+FC:/Modeltech_pe_edu_10.4a/examples/Final Project/TxController.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1494625099.000000
+!s107 C:/Modeltech_pe_edu_10.4a/examples/Final Project/TxController.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/Final Project/TxController.v|
+!s101 -O0
+!i113 1
+R7
+n@tx@controller
+vTxController_tb
+!s110 1494626563
+!i10b 1
+!s100 AU0J4CcY2PjBk6B^Z9_fE0
+IX:2fg1KDG5:9knFXWOM8X3
+R0
+R1
+w1494626550
+8C:/Modeltech_pe_edu_10.4a/examples/Final Project/TxController_tb.v
+FC:/Modeltech_pe_edu_10.4a/examples/Final Project/TxController_tb.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1494626563.000000
+!s107 C:/Modeltech_pe_edu_10.4a/examples/Final Project/TxController_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/examples/Final Project/TxController_tb.v|
+!s101 -O0
+!i113 1
+R7
+n@tx@controller_tb

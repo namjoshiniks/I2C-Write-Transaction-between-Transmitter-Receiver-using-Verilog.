@@ -1,0 +1,130 @@
+module EightEightBitCount_tb();
+  
+  reg LoadEightEightBitCount;
+  reg DecEightEightBitCount;
+  reg [31:0]EightBitSize;
+  reg Reset;
+  wire [31:0]EightBitCount;
+  //reg Count;
+  
+  reg clk;
+  EightBitCounter MUT(LoadEightEightBitCount,DecEightEightBitCount,EightBitCount,EightBitSize,Reset,clk);
+  
+  always
+  #50 clk = ~clk;
+  
+  initial begin
+  clk = 1'b0;
+  LoadEightEightBitCount = 1'b0;
+  Reset = 1'b0;
+  EightBitSize = 32'b0;
+  DecEightEightBitCount = 1'b0;
+  
+  @(posedge clk) //1
+  begin
+  EightBitSize = 32'b111;  
+  Reset = 1'b1;  
+  LoadEightEightBitCount = 1'b0;
+  DecEightEightBitCount = 1'b0;
+  end
+  
+  @(posedge clk) //2
+  begin
+  EightBitSize = 32'b111;  
+  Reset = 1'b0;  
+  LoadEightEightBitCount = 1'b1;
+  DecEightEightBitCount = 1'b0;
+  end
+  
+  @(posedge clk) //3
+  begin
+  EightBitSize = 32'b111;  
+  Reset = 1'b0;  
+  LoadEightEightBitCount = 1'b0;
+  DecEightEightBitCount = 1'b1;
+  end
+  
+  @(posedge clk) //4
+  begin
+  EightBitSize = 32'b111;  
+  Reset = 1'b0;  
+  LoadEightEightBitCount = 1'b0;
+  DecEightEightBitCount = 1'b1;
+  end
+
+@(posedge clk) //5
+  begin
+  EightBitSize = 32'b111;  
+  Reset = 1'b0;  
+  LoadEightEightBitCount = 1'b0;
+  DecEightEightBitCount = 1'b1;
+  end
+  
+  @(posedge clk) //6
+  begin
+  EightBitSize = 32'b111;  
+  Reset = 1'b0;  
+  LoadEightEightBitCount = 1'b0;
+  DecEightEightBitCount = 1'b1;
+  end
+  
+  @(posedge clk) //7
+  begin
+  EightBitSize = 32'b111;  
+  Reset = 1'b0;  
+  LoadEightEightBitCount = 1'b0;
+  DecEightEightBitCount = 1'b1;
+  end
+  
+  @(posedge clk) //8
+  begin
+  EightBitSize = 32'b111;  
+  Reset = 1'b0;  
+  LoadEightEightBitCount = 1'b0;
+  DecEightEightBitCount = 1'b1;
+  end
+  
+  @(posedge clk) //9
+  begin
+  EightBitSize = 32'b111;  
+  Reset = 1'b0;  
+  LoadEightEightBitCount = 1'b0;
+  DecEightEightBitCount = 1'b1;
+  end
+  
+  @(posedge clk) //10
+  begin
+  EightBitSize = 32'b111;  
+  Reset = 1'b0;  
+  LoadEightEightBitCount = 1'b1;
+  DecEightEightBitCount = 1'b0;
+  end
+  
+  @(posedge clk) //11
+  begin
+  EightBitSize = 32'b111;  
+  Reset = 1'b0;  
+  LoadEightEightBitCount = 1'b0;
+  DecEightEightBitCount = 1'b1;
+  end
+  
+  @(posedge clk) //12
+  begin
+  EightBitSize = 32'b111;  
+  Reset = 1'b0;  
+  LoadEightEightBitCount = 1'b0;
+  DecEightEightBitCount = 1'b1;
+  end
+  
+  @(posedge clk) //13
+  begin
+  EightBitSize = 32'b111;  
+  Reset = 1'b0;  
+  LoadEightEightBitCount = 1'b0;
+  DecEightEightBitCount = 1'b1;
+  end
+  
+  
+  
+end
+endmodule

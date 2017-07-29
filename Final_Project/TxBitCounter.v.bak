@@ -1,0 +1,43 @@
+module TxBitCounter(LoadBitCount,DecTxBitCount,BitCount,Size,Reset,clk);
+  input LoadBitCount;
+  input DecTxBitCount;
+  input [31:0]Size;
+  input clk;
+  input Reset;
+  output reg [31:0]BitCount;
+  //reg [31:0]Count;
+  
+  always@(posedge clk)
+  begin
+                    if(LoadBitCount==1'b1)
+                    begin
+                    BitCount <= Size;  
+                    end
+          
+                    else if(DecTxBitCount==1'b1)
+                    begin
+                    BitCount <= BitCount-32'b1;  
+                    end
+                
+                    else if(BitCount!=32'b0) 
+                    begin 
+                    BitCount <= BitCount-32'b1;  
+                    end
+                    
+                    else if(BitCount==32'b0)
+                    begin  
+                    if(LoadBitCount==1'b1)  
+                    begin
+                    BitCount <= Size;  
+                    end
+                    end 
+                                   
+                   
+                  end
+                  
+   
+  endmodule
+  
+
+
+

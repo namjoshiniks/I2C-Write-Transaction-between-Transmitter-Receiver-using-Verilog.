@@ -1,0 +1,48 @@
+module ShiftBuf0Reg_tb();
+
+reg clk,signalShift,signalLoad;
+reg [31:0] TxIn;
+wire dout;
+ShiftBuf0Reg MUT(clk,signalShift,signalLoad,TxIn,dout);
+
+always
+#5 clk = ~clk;
+
+initial begin
+clk = 1'b0;
+signalShift = 1'b0;
+signalLoad  = 1'b0;
+TxIn = 15;
+
+@(posedge clk)
+begin
+signalLoad = 1'b1;
+end
+
+@(posedge clk)
+begin
+signalLoad = 1'b0;
+signalShift = 1'b1;
+end
+
+@(posedge clk)
+begin
+signalLoad = 1'b0;
+signalShift = 1'b1;
+end
+
+@(posedge clk)
+begin
+signalLoad = 1'b0;
+signalShift = 1'b1;
+end
+
+@(posedge clk)
+begin
+signalLoad = 1'b0;
+signalShift = 1'b1;
+end
+
+end
+endmodule
+
